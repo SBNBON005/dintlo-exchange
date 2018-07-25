@@ -29,7 +29,7 @@ You can generate an API_KEY and an API_SECRET from your account settings.
 - HTTP 503 Temporarily offline
 - 
 
-Response
+Response Structure
 
 ```
 {
